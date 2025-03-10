@@ -200,7 +200,7 @@ function Home() {
         </div>
       </nav>
 
-      <section id="hero" className="py-20 bg-[#050f25] relative px-4">
+      <section id="hero" className="py-20 bg-gray-900 relative px-4">
         <div className="absolute inset-x-8 inset-y-4 border border-gray-800 rounded-2xl pointer-events-none"></div>
         <div className="max-w-[1400px] mx-auto relative">
           <div className="max-w-4xl mx-auto text-center px-4">

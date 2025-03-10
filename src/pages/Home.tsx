@@ -207,7 +207,7 @@ function Home() {
             <div className="inline-block bg-[#1A2634] text-blue-600 px-4 py-2 rounded-full text-sm font-md mb-8">
               AUTOMATE YOUR BUSINESS
             </div>
-            <h1 className="text-4xl md:text-6xl mb-8 leading-tight font-montserrat">
+            <h1 className="text-4xl md:text-6xl mb-8 leading-tight font-montserrat font-bold">
               We build automated growth systems for B2B businesses.
             </h1>
             <p className="text-lg md:text-xl mb-12 text-gray-400">

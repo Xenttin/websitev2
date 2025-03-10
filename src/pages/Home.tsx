@@ -90,7 +90,7 @@ function Home() {
         <div className="absolute inset-x-8 inset-y-4 bg-[#050f25] border border-gray-800 rounded-2xl pointer-events-none"></div>
         <div className="relative max-w-[1400px] mx-auto">
           <div className="flex items-center h-20 mx-4">
-            <Link to="/" className="flex items-center ml-8">
+            <Link to="/" className="flex items-center ml-4">
               <img
                 src="/trosasologo.png"
                 alt="Trosa Logo"
@@ -142,7 +142,7 @@ function Home() {
             </div>
 
             {/* Book intro call button */}
-            <div className="hidden md:block ml-8">
+            <div className="hidden md:block ml-8 mr-4">
               <a
                 href="https://form.typeform.com/to/JeDggrzo"
                 target="_blank"

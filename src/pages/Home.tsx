@@ -94,7 +94,7 @@ function Home() {
               <img
                 src="/trosasologo.png"
                 alt="Trosa Logo"
-                className="h-8 w-8"
+                className="h-12 w-12"
               />
               <span className="ml-3 text-xl font-bold">Trosa Solutions</span>
             </Link>
@@ -201,7 +201,7 @@ function Home() {
       </nav>
 
       <section id="hero" className="py-20 bg-[#050f25] relative px-4">
-        <div className="absolute inset-x-8 inset-y-4 border border-gray-800 rounded-2xl pointer-events-none"></div>
+        <div className="absolute inset-x-8 inset-y-4 border border-gray-800 rounded-2xl pointer-events-none bg-gray-900"></div>
         <div className="max-w-[1400px] mx-auto relative">
           <div className="max-w-4xl mx-auto text-center px-4">
             <div className="inline-block bg-[#1A2634] text-blue-600 px-4 py-2 rounded-full text-sm font-md mb-8">
